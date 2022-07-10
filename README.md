@@ -29,7 +29,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Functionality
 
-The web application is deployed at [reserved for url]
+The web application is deployed at https://lucasz10.github.io/Zach-Lucas-Password-Generator/
 
 The password generation is an application that opens window prompts for a user to input criteria for a password they would like to randomly generate. The first window prompt allows the user to enter a password length between 8 and 128 characters. This is followed by setting parameters for the characters generated. This includes Upper case letters, lower case letters, numbers, and special characters.
 
